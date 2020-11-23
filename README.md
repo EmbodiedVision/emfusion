@@ -4,7 +4,7 @@
 
 This repository provides source code for EM-Fusion accompanying the following publication:
 
-*Michael Strecke and Joerg Stuecker, "**EM-Fusion: Dynamic Object-Level SLAM With
+*Michael Strecke and Joerg Stueckler, "**EM-Fusion: Dynamic Object-Level SLAM With
 Probabilistic Data Association**"*  
 *Presented at the **IEEE/CVF International Conference on Computer Vision (ICCV)
 2019**, Seoul, Korea*
