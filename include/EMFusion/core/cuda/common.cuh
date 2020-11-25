@@ -1,7 +1,7 @@
 /*
  * This file is part of EM-Fusion.
  *
- * Copyright (C) 2020 Max-Planck-Gesellschaft.
+ * Copyright (C) 2020 Embodied Vision Group, Max Planck Institute for Intelligent Systems, Germany.
  * Developed by Michael Strecke <mstrecke at tue dot mpg dot de>.
  * For more information see <https://emfusion.is.tue.mpg.de>.
  * If you use this code, please cite the respective publication as
