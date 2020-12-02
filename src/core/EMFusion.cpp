@@ -1019,8 +1019,8 @@ void EMFusion::writeMeshVis ( const boost::filesystem::path& p ) {
     boost::filesystem::path mesh_vis_out = p / "mesh_vis_out";
     boost::filesystem::create_directories ( mesh_vis_out );
 
-    for ( const auto& mesh_vis : mesh_vis ) {
-        writeImage ( mesh_vis_out, mesh_vis.first, mesh_vis.second );
+    for ( const auto& mesh_v : mesh_vis ) {
+        writeImage ( mesh_vis_out, mesh_v.first, mesh_v.second );
     }
 }
 
